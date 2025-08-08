@@ -27,5 +27,4 @@ Vulindlela is seeking a talented and motivated Junior React Developer to assist 
 ### Link to Cover Letter
 [My Cover Letter](https://docs.google.com/document/d/1r3Lj1XbRKJFiGy1zP4gabUrZL7TyXy_roCZwQkeu2lI/edit?usp=sharing)
 
-For detailed project instructions, including the job description and specific sections to include in your cover letter, please refer to the provided project brief on the LMS.
 
